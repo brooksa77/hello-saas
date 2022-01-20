@@ -1,7 +1,11 @@
 label: Headline
 form:
   properties:
-    text:
+    title:
       label: Headline
+      $type: textField
+      i18n: true
+    subtitle: 
+      label: Subheading
       $type: textField
       i18n: true
